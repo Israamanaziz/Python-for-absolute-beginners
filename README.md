@@ -11,7 +11,7 @@ All programs are beginner-friendly and written while learning Python using Googl
 
 ## Beginner Tips to practice effectively: 
 
-1. When writing code, use** print()** after every line
+1. When writing code, use **print()** after every line
 2. Understand core datatypes: int, str, list, dict, and boolean
 3. Control statements: if, else, elif, for, while
 4. Functions and return values
